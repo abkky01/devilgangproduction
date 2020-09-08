@@ -27,7 +27,7 @@
 		
 		height				: '50%',	//here you can type pixels (for instance '300px'), a percentage (relative to the width of the slideshow, for instance '50%') or 'auto'
 		
-		imagePath			: https://1.bp.blogspot.com/--CuJh1zqXBI/X1ee0SVBawI/AAAAAAAAGME/UIvw-81Js5gSt1XOH5O7XoyGCZq879b4gCLcBGAsYHQ/s0/',	//he path to the image folder (it serves for the blank.gif, when you want to display videos)
+		imagePath			: 'https://1.bp.blogspot.com/--CuJh1zqXBI/X1ee0SVBawI/AAAAAAAAGME/UIvw-81Js5gSt1XOH5O7XoyGCZq879b4gCLcBGAsYHQ/s0/',	//he path to the image folder (it serves for the blank.gif, when you want to display videos)
 		
 		hover				: true,	//true, false. Puase on state hover. Not available for mobile devices
 				
